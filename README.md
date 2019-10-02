@@ -7,5 +7,5 @@ The timer has a minimalist look similar to the one of a terminal allowing it to 
 In conclusion, it is simple, there is a timer and it ticks!
 
 
-<a href="url"><img src="https://github.com/rafaelProjects/Timer/blob/master/timer.JPG" width="500" style={text-align: center;}></a>
+<a href="url"><img src="https://github.com/rafaelProjects/Timer/blob/master/timer.JPG" width="500" style="text-align: center;"></a>
 
